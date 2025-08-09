@@ -1,0 +1,19 @@
+# a = input("Enter number 1: ") # whole program is in string mode so O/P will  be "1"+"2"="12"
+
+# b = input("Enter number 2: ")
+
+# print("Number a is: ", a)
+# print("Number b is: ", b)
+
+# print("sum is ", a + b )
+
+
+
+a = int(input("Enter number 1: ")) #converted to string
+
+b = int(input("Enter number 2: "))
+
+print("Number a is: ", a)
+print("Number b is: ", b)
+
+print("sum is ", a + b )
